@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoonyesol&theme=buefy_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codingyun89)](https://solved.ac/codingyun89/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonyesol&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact)
 
 <!--
 **Yoonyesol/Yoonyesol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
