@@ -38,7 +38,7 @@
 <br>
   
   [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black)](https://florescene.tistory.com/)
-  [![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)](chase1290@naver.com/)
+  [![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=whitelink=mailto:chase1290@naver.com)]
  
 <br>
 <br>
