@@ -3,7 +3,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonyesol&count_bg=%237FCBE3&title_bg=%233CAAE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <br>
   <div align=center><h2> INTRODUCE 🔮</h2></div> 
-  웹 개발자를 목표로 공부 중인 대학생입니다.😊    
+  웹 FE개발자를 목표로 공부 중인 대학생입니다.😊    
 <br>
 <br>
 <br>
