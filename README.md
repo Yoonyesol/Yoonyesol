@@ -3,7 +3,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonyesol&count_bg=%237FCBE3&title_bg=%233CAAE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <br>
   <div align=center><h2> INTRODUCE 🔮</h2></div> 
-  웹 FE개발자를 목표로 공부 중입니다.😊    
+  웹 개발자를 목표로 공부 중입니다.😊    
 <br>
 <br>
 <br>
@@ -41,8 +41,8 @@
   <div align=center><h2> ME 📧 </h2></div> 
 <br>
   
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black)](https://florescene.tistory.com/)
-  <!-- [![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)](https://florescene.tistory.com/) -->
+  <!--[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=black)](https://florescene.tistory.com/) -->
+  [![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)](seaoaiandme35@gmail.com/)
  
 <br>
 <br>
